@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\bin\Debug\Addres print.exe.config
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\bin\Debug\Addres print.exe
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\bin\Debug\Addres print.pdb
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\obj\Debug\Addres print.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\obj\Debug\Addres print.exe
-C:\Users\user\Documents\Visual Studio 2012\Projects\Addres print\Addres print\obj\Debug\Addres print.pdb
